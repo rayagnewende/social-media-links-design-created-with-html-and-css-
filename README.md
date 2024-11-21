@@ -1,6 +1,6 @@
 # Frontend Mentor - Social links profile solution
 
-This is a solution to the [Social links profile challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/social-links-profile-UG32l9m6dQ). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+This is a solution to the [Social links profile challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/social-links-profile-UG32l9m6dQ). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
 ## Table of contents
 
@@ -11,7 +11,6 @@ This is a solution to the [Social links profile challenge on Frontend Mentor](ht
 - [My process](#my-process)
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
-
 
 ## Overview
 
@@ -36,14 +35,16 @@ Users should be able to:
 - CSS custom properties
 - Flexbox
 - Mobile-first workflow$
+
 ### What I learned
+
 ### Continued development
 
 ### Useful resources
 
 ## Author
 
-- Website - [Evariste KABORE](re)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Website - [Evariste KABORE](https://www.frontendmentor.io/profile/rayagnewende)
+- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/rayagnewende)
 
 ## Acknowledgments
